@@ -79,13 +79,6 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
 <br/>
 <sub>Matplotlib • Seaborn • Data Annotation • Roboflow</sub>
-
-<br/><br/>
-
-**🧪 Testing**
-<br/>
-<sub>JUnit • Mockito</sub>
-
 <br/><br/>
 
 **☁️ Cloud, DevOps & Tools**
