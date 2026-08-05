@@ -47,16 +47,12 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28"/>
-<br/>
-<sub>LangChain • LangGraph • spaCy • NLTK • RAG • Prompt Engineering • ANN/RNN/CNN/LSTM/GRU • Whisper • Wav2Vec2.0 • YOLOv5 • LLaMA • BERT</sub>
-
 </td>
 <td align="center" valign="top" width="20%">
 
 **🎨 Frontend**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap,jquery,redux&theme=dark" />
-
 </td>
 <td align="center" valign="top" width="20%">
 
@@ -64,9 +60,6 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring,graphql,hibernate&theme=dark" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28"/>
-<br/>
-<sub>REST APIs • SOAP • gRPC • Mongoose • JSP/JSF</sub>
-
 </td>
 <td align="center" valign="top" width="20%">
 
@@ -74,9 +67,6 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,kafka,rabbitmq,elasticsearch&theme=dark" />
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
-<br/>
-<sub>ActiveMQ</sub>
-
 </td>
 </tr>
 </table>
