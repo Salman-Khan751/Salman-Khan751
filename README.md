@@ -45,7 +45,8 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 
 **🤖 AI / ML**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,huggingface&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28"/>
 <br/>
 <sub>LangChain • LangGraph • spaCy • NLTK • RAG • Prompt Engineering • ANN/RNN/CNN/LSTM/GRU • Whisper • Wav2Vec2.0 • YOLOv5 • LLaMA • BERT</sub>
 
@@ -61,16 +62,18 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 
 **⚙️ Backend**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring,graphql,hibernate,grpc&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring,graphql,hibernate&theme=dark" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28"/>
 <br/>
-<sub>REST APIs • SOAP • JWT Auth • Mongoose • JSP/JSF</sub>
+<sub>REST APIs • SOAP • gRPC • Mongoose • JSP/JSF</sub>
 
 </td>
 <td align="center" valign="top" width="20%">
 
 **🗄️ Databases & Messaging**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,mssql,redis,kafka,rabbitmq,elasticsearch&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,kafka,rabbitmq,elasticsearch&theme=dark" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
 <br/>
 <sub>ActiveMQ</sub>
 
@@ -81,8 +84,11 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 <br/>
 
 **📊 Data Science & Visualization**
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
 <br/>
-<sub>NumPy • Pandas • Matplotlib • Seaborn • Data Annotation • Roboflow</sub>
+<sub>Matplotlib • Seaborn • Data Annotation • Roboflow</sub>
 
 <br/><br/>
 
