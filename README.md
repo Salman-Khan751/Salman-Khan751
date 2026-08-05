@@ -18,7 +18,7 @@ I'm an **AI Engineer & Full-Stack Developer** with a Bachelor's degree in Artifi
 - 🌐 Ship scalable **full-stack applications** with React.js, Node.js, Express.js, Flask, and FastAPI, backed by SQL, MongoDB, Docker, and AWS
 - 🩺 Built **MediTranscribe**, a full-stack AI medical transcription platform — fine-tuned BERT reaches **95% accuracy** across clinical text categories
 - 📞 Deployed a **real-time call intent & emotion detection system** (Whisper + Wav2Vec2.0 + Transformers) for production call-center workflows
-- 🎓 BS in Artificial Intelligence — PMAS Arid Agriculture University, Rawalpindi, Pakistan 
+- 🎓 BS in Artificial Intelligence — PMAS Arid Agriculture University, Rawalpindi, Pakistan
 
 ### 🚀 Currently Building
 `AI Call Intent & Emotion Detection` — a real-time telecom pipeline combining Whisper, DistilBERT, and Wav2Vec2.0 behind a low-latency FastAPI service
@@ -27,6 +27,7 @@ I'm an **AI Engineer & Full-Stack Developer** with a Bachelor's degree in Artifi
 Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architectures & vector search · Cloud-native deployment on AWS
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
