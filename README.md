@@ -27,7 +27,6 @@ I'm an **AI Engineer & Full-Stack Developer** with a Bachelor's degree in Artifi
 Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architectures & vector search · Cloud-native deployment on AWS
 
 ---
-```markdown
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -105,7 +104,6 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-```
 
 ## 📊 GitHub Analytics
 
@@ -156,7 +154,6 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 
 ---
 
-```markdown
 <div align="center">
 
 <h3>🚀 Let's Build the Future with AI</h3>
@@ -182,4 +179,3 @@ Building scalable AI-powered applications with Python, Machine Learning, Deep Le
 <sub>© 2026 Salman Khan • Made with ❤️ and lots of ☕</sub>
 
 </div>
-```
