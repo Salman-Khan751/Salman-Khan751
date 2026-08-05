@@ -3,16 +3,8 @@
 <img src="assets/banner/banner.svg" width="100%" alt="Salman Khan — AI Engineer, Software Engineer, Full-Stack Developer"/>
 
 <br/>
-
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2FD9FF&center=true&vCenter=true&width=820&lines=Fine-tuning+LLMs+%7C+Building+RAG+%2B+Agentic+AI+Systems;Shipping+Production+NLP+%2C+Computer+Vision+%26+Speech+AI;Full-Stack+Engineering+with+the+MERN+%2B+Python+Stack;Turning+Research+Papers+into+Production-Ready+Products" alt="Typing SVG"/>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/salman-khan-ai-software-engineer/"><img src="https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
-<a href="mailto:salmank.official751@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
-<a href="https://github.com/Salman-Khan751"><img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
-<a href="https://salman-khan-portfolio-murex.vercel.app"><img src="https://img.shields.io/badge/-2FD9FF?style=for-the-badge&logo=vercel&logoColor=black" height="30"/></a>
-
 </div>
 
 <br/>
@@ -26,8 +18,7 @@ I'm an **AI Engineer & Full-Stack Developer** with a Bachelor's degree in Artifi
 - 🌐 Ship scalable **full-stack applications** with React.js, Node.js, Express.js, Flask, and FastAPI, backed by SQL, MongoDB, Docker, and AWS
 - 🩺 Built **MediTranscribe**, a full-stack AI medical transcription platform — fine-tuned BERT reaches **95% accuracy** across clinical text categories
 - 📞 Deployed a **real-time call intent & emotion detection system** (Whisper + Wav2Vec2.0 + Transformers) for production call-center workflows
-- 🎓 BS in Artificial Intelligence — PMAS Arid Agriculture University, Rawalpindi, Pakistan (2022 – 2026)
-- 📍 Based in Pakistan · Open to AI/ML Engineering and Full-Stack roles
+- 🎓 BS in Artificial Intelligence — PMAS Arid Agriculture University, Rawalpindi, Pakistan 
 
 ### 🚀 Currently Building
 `AI Call Intent & Emotion Detection` — a real-time telecom pipeline combining Whisper, DistilBERT, and Wav2Vec2.0 behind a low-latency FastAPI service
@@ -36,170 +27,85 @@ I'm an **AI Engineer & Full-Stack Developer** with a Bachelor's degree in Artifi
 Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architectures & vector search · Cloud-native deployment on AWS
 
 ---
-
+```markdown
 ## 🛠️ Tech Stack
 
-<table>
-<tr><td valign="top" width="100%">
+### 💻 Programming Languages
 
-**Programming Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs" />
-</p>
-
-**AI &amp; Machine Learning**
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-6E56CF?style=for-the-badge"/>
-</p>
-
-**Frontend**
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" />
-</p>
-
-**Backend**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring,graphql" />
-</p>
-
-**Databases**
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
-</p>
-
-**Cloud &amp; DevOps**
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions,kubernetes,postman" />
-</p>
-
-**Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,linux,figma,jira" />
-</p>
-
-</td></tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+### 🤖 AI & Machine Learning
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 [MediTranscribe](https://github.com/Salman-Khan751/MediTranscribe)
-**AI Medical Transcription & Clinical Assistant** · Final Year Project (2025–2026)
-
-Full-stack platform for real-time doctor–patient consultations with live speech-to-text, automated prescription extraction, and EHR data capture. Fine-tuned BERT reaches **95% classification accuracy** across clinical text categories. Secure Flask REST APIs + React.js frontend with role-based auth, patient records, scheduling, and vitals tracking.
-
-`Python` `Flask` `React.js` `MySQL` `Whisper` `BERT` `NLP`
-
-**[🔗 Repository](https://github.com/Salman-Khan751/MediTranscribe)**
-
-</td>
-<td width="50%" valign="top">
-
-### 📞 AI Call Intent & Emotion Detection
-**Telecom Call Analysis Pipeline** (2025 – Present)
-
-Classifies customer intent (upgrade, complaint, cancellation) and detects emotion (angry, neutral, frustrated) in real time by combining Whisper, DistilBERT, and Wav2Vec2.0. Deployed behind a low-latency FastAPI service for production call-center workflows, with a React.js monitoring dashboard backed by MongoDB.
-
-`Python` `Whisper` `Wav2Vec2.0` `Transformers` `FastAPI` `React.js` `MongoDB`
-
-**[🔗 Repository](https://github.com/Salman-Khan751)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚗 Vehicle Detection for Toll Monitoring
-**Real-Time Computer Vision System**
-
-YOLOv5-based detection and classification of vehicles at toll booths from live video streams, extracting vehicle counts, types, and timestamps to improve toll audit accuracy and reduce manual logging. Full-stack version pairs a React.js interface with a Flask + MongoDB backend.
-
-`Python` `YOLOv5` `OpenCV` `Roboflow` `Flask` `React.js`
-
-**[🔗 Repository](https://github.com/Salman-Khan751)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ ToxicTrack — Hate Speech Detection
-**Real-Time Content Moderation NLP Pipeline**
-
-Transformer-based classification pipeline detecting toxic, abusive, and threatening language in user-generated content. Fine-tuned BERT models support safer, scalable content moderation, developed with Agile practices and Git-based collaborative workflows.
-
-`Python` `BERT` `spaCy` `Transformers`
-
-**[🔗 Repository](https://github.com/Salman-Khan751)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Real-Time NLP Chatbot
-**Context-Aware Conversational AI** (2024)
-
-Multi-turn chatbot capable of sustaining coherent dialogue across exchanges. Fine-tuned a LLaMA-based model on custom datasets and deployed it via a scalable FastAPI/Flask service with a web interface.
-
-`Python` `TensorFlow` `FastAPI` `Flask` `LLaMA` `NLP`
-
-**[🔗 Repository](https://github.com/Salman-Khan751)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Backend System
-**Scalable REST API Platform** (2026)
-
-RESTful backend built with Node.js, Express.js, and MySQL implementing JWT authentication, role-based access control, and CRUD APIs for users, products, carts, and orders, with optimized relational schemas and SQL queries.
-
-`Node.js` `Express.js` `MySQL` `JWT` `REST API`
-
-**[🔗 Repository](https://github.com/Salman-Khan751)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Movie Recommender System
-**Collaborative Filtering Engine** (2024)
-
-Personalized recommendation engine using collaborative filtering and similarity-based algorithms, processing large-scale datasets with Pandas and Scikit-learn pipelines to improve content discovery and engagement.
-
-`Python` `Scikit-learn` `Pandas`
-
-**[🔗 Repository](https://github.com/Salman-Khan751)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🔍 Duplicate Question Detector
-**Semantic Similarity with Transformers** (2023)
-
-Transformer-based semantic similarity model detecting duplicate questions with high accuracy on the Quora Question Pairs dataset, using spaCy for NLP feature engineering and text preprocessing.
-
-`Python` `Transformers` `spaCy` `NLP`
-
-**[🔗 Repository](https://github.com/Salman-Khan751)**
-
-</td>
-</tr>
-</table>
-
-> 📌 Repository links point to my profile — pin the individual repos once created/renamed so these links resolve directly.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0E1117?style=for-the-badge)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-7C3AED?style=for-the-badge)
 
 ---
+
+### 🎨 Frontend Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+---
+
+### ⚙️ Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 🧰 Tools
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+```
 
 ## 📊 GitHub Analytics
 
@@ -238,12 +144,6 @@ Transformer-based semantic similarity model detecting duplicate questions with h
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://github.com/Salman-Khan751">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
-<sub><b>GitHub</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
 <a href="https://salman-khan-portfolio-murex.vercel.app">
 <img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>
 <sub><b>Portfolio</b></sub>
@@ -256,8 +156,30 @@ Transformer-based semantic similarity model detecting duplicate questions with h
 
 ---
 
+```markdown
 <div align="center">
 
-<sub>Designed &amp; engineered by <b>Salman Khan</b> &nbsp;&#8226;&nbsp; Built with Python, PyTorch, and a lot of coffee &nbsp;&#8226;&nbsp; © 2026</sub>
+<h3>🚀 Let's Build the Future with AI</h3>
+
+<p>
+Designed & Engineered by <strong>Salman Khan</strong>
+</p>
+
+<p>
+🤖 AI Engineer • 💻 Software Engineer • ⚡ Full Stack Developer
+</p>
+
+<p>
+Building scalable AI-powered applications with Python, Machine Learning, Deep Learning, LLMs, RAG, LangChain, LangGraph, React, FastAPI, and AWS.
+</p>
+
+---
+
+<sub>✨ Passionate about AI • Open Source • Continuous Learning • Innovation</sub>
+
+<br>
+
+<sub>© 2026 Salman Khan • Made with ❤️ and lots of ☕</sub>
 
 </div>
+```
