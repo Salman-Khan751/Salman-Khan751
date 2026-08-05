@@ -38,7 +38,7 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 
 **💻 Languages**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,cs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,cs,dotnet&theme=dark" />
 
 </td>
 <td align="center" valign="top" width="20%">
@@ -47,28 +47,32 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,huggingface&theme=dark" />
 <br/>
-<sub>LangChain • LangGraph • spaCy • RAG • Agentic AI</sub>
+<sub>LangChain • LangGraph • spaCy • NLTK • RAG • Prompt Engineering • ANN/RNN/CNN/LSTM/GRU • Whisper • Wav2Vec2.0 • YOLOv5 • LLaMA • BERT</sub>
 
 </td>
 <td align="center" valign="top" width="20%">
 
 **🎨 Frontend**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap,jquery,redux&theme=dark" />
 
 </td>
 <td align="center" valign="top" width="20%">
 
 **⚙️ Backend**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring,graphql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring,graphql,hibernate,grpc&theme=dark" />
+<br/>
+<sub>REST APIs • SOAP • JWT Auth • Mongoose • JSP/JSF</sub>
 
 </td>
 <td align="center" valign="top" width="20%">
 
-**🗄️ Data / Cloud**
+**🗄️ Databases & Messaging**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,mssql,redis,kafka,rabbitmq,elasticsearch&theme=dark" />
+<br/>
+<sub>ActiveMQ</sub>
 
 </td>
 </tr>
@@ -76,9 +80,26 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,kubernetes,postman,vscode,linux,figma,jira&theme=dark" />
+**📊 Data Science & Visualization**
+<br/>
+<sub>NumPy • Pandas • Matplotlib • Seaborn • Data Annotation • Roboflow</sub>
+
+<br/><br/>
+
+**🧪 Testing**
+<br/>
+<sub>JUnit • Mockito</sub>
+
+<br/><br/>
+
+**☁️ Cloud, DevOps & Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,kubernetes,postman,vscode,linux,figma,jira&theme=dark" />
+<br/>
+<sub>CI/CD • Agile / Scrum</sub>
 
 </div>
+
 
 ## 📊 GitHub Analytics
 
