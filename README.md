@@ -61,10 +61,10 @@ Advanced **Agentic AI** patterns with LangGraph · Scalable **RAG** architecture
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,spring,graphql,hibernate&theme=dark" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="28"/>
 </td>
-<td align="center" valign="top" width="20%">
+<td align="center" valign="top" width="25%">
 
 **🗄️ Databases & Messaging**
-<br/><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,kafka,rabbitmq,elasticsearch&theme=dark" />
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28"/>
 </td>
